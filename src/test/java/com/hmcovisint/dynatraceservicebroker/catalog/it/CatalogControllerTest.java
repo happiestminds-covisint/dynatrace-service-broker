@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.hmcovisint.dynatraceservicebroker.catalog;
+package com.hmcovisint.dynatraceservicebroker.catalog.it;
 
-import com.hmcovisint.dynatraceservicebroker.AbstractControllerTest;
+import com.hmcovisint.dynatraceservicebroker.it.AbstractControllerTest;
 
 import org.junit.Test;
 

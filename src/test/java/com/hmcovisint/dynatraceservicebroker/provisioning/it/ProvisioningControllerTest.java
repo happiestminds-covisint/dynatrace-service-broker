@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.hmcovisint.dynatraceservicebroker.provisioning;
+package com.hmcovisint.dynatraceservicebroker.provisioning.it;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.hmcovisint.dynatraceservicebroker.AbstractControllerTest;
+import com.hmcovisint.dynatraceservicebroker.it.AbstractControllerTest;
 
 import org.junit.Test;
 import org.springframework.http.MediaType;

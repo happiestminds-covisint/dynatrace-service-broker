@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hmcovisint.dynatraceservicebroker;
+package com.hmcovisint.dynatraceservicebroker.it;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.hmcovisint.dynatraceservicebroker.Application;
